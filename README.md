@@ -3,6 +3,7 @@ https://gitee.com/happy_source/tpcms/releases/tag/v6.0.0
 
 nginx conf:
 
+```
 server {
     listen      80;
     server_name localhost 127.0.0.1;
@@ -31,6 +32,7 @@ server {
         fastcgi_param  SCRIPT_FILENAME $document_root$fastcgi_script_name;
     }
 }
+```
 
 <img width="965" alt="image" src="https://github.com/user-attachments/assets/a4554984-4e85-41e8-8b8c-71fefca92131">
 <script>alert(1)</script>
