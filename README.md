@@ -37,6 +37,7 @@ server {
 <img width="965" alt="image" src="https://github.com/user-attachments/assets/a4554984-4e85-41e8-8b8c-71fefca92131">
 <script>alert(1)</script>
 <img width="1133" alt="image" src="https://github.com/user-attachments/assets/beb4d71a-4777-4f01-9a60-b9874aa84552">
+utl:http://ip/index.php?s=platform/index/index.html
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/2020156a-caf2-4015-8c9a-657fad59fd87">
 
 xss vuln
